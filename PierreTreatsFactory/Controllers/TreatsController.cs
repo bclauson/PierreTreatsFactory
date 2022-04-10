@@ -127,9 +127,5 @@ namespace PierreTreatsFactory.Controllers
       return RedirectToAction("Index");
     }
 
-
-
-
-
   }
 }
